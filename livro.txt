@@ -1,0 +1,34 @@
+Titulos na cor #DE9414
+https://color.adobe.com/pt/create/color-wheel
+
+na parte beje colocar o logo do livro
+	precisa recortar e expandir para o formato desejado
+	
+Primeiro card é o segundo texto do lado da autora 
+	A CHAVE ESTÁ NA INFÂNCIA
+	É sobre autoconhecimento. Descobrindo o sagrado em cada momento vivido como forma de libertação e ampliação da consiência. É olhar para sua própria infância e cada uma das crenças e memórias limitantes sem julgamentos. É a transformação no olhar que agora descobre a poesia presente na superação de hábitos e costumes que não alinham com seu propósito de vida.
+
+segundo card
+	autoconhecimento (texto da capa do livro tbm)
+
+
+terceiro card
+	a autora
+
+quarto card
+	viva uma experiencia e o audio que a mae mandar
+
+https://freefrontend.com/css-cards/
+card Author
+Doan Ngoc Thuong
+October 8, 2020
+
+ou 
+
+Author
+Adam Dipinto
+September 19, 2019
+
+background mantem
+texto preto
+botao para comprar azul com a letra roxa
